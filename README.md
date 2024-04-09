@@ -66,7 +66,6 @@
 
 ### Web Scrapping
 
-### Image Processing
 
 ### Game Development
 

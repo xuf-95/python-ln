@@ -1,4 +1,4 @@
-# python-tutorial
+# python-learning
 
 ## Python Framework
 ### 函数和模块的使用
